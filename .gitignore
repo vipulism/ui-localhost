@@ -2,8 +2,13 @@
 Thumbs.db
 ehthumbs.db
 
+
 # Folder config file
 Desktop.ini
+
+#project doc
+raw
+client
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -13,6 +18,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+#photoshop
+*.psd
+*.psb
 
 # =========================
 # Operating System Files

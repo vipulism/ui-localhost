@@ -1,0 +1,39 @@
+*{padding: 0;margin: 0; cursor: default}
+.cl{clear: both;}    
+.date span{float: left;display: block;}
+body{background: url(../images/bg.jpg);font-family: Lato;}
+.date{color: #fff;padding: 20px;font-size: 40px;text-shadow: 0px 2px 5px #000;background: rgba(0, 0, 0, 0.75);-webkit-box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.21);
+box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.21);border: 1px solid #000;}
+.aside {right: 0;margin-right: 40px;
+    position: absolute;width: 350px;
+}
+
+.wrap {
+    padding: 40px  40px 40px;position: relative;
+}
+
+.dd {
+    font-weight: 900;
+}
+
+ 
+
+.time {
+   font-weight: 100;font-size: 69px;
+}
+
+
+
+.yy {font-size:25px ;
+    font-weight:300 ;
+}
+
+.sub-dt {
+    float: right;
+    
+}
+
+.mm-ee {margin: 0 5px;font-size:20px ;
+    font-weight: 300;
+    font-size:20px ;line-height:21px ;float: left;
+}.mm-ee span{display: block;float: none;}

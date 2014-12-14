@@ -1,0 +1,1 @@
+dir *.mp3;*.mp4 /b > list.xml
